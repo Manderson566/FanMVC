@@ -20,11 +20,15 @@ namespace FanMVC.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult LignumVita()
         {
-            ViewBag.Message = "Your contact page.";
-
             return View();
         }
+
+        public ActionResult AgarWood()
+        {
+            return View();
+        }
+
     }
 }
