@@ -192,7 +192,8 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\LignumVita.cshtml" />
-    <Content Include="Views\AgarWood.cshtml" />
+    <Content Include="Views\Home\AgarWood.cshtml" />
+    <Content Include="Views\Home\Dalbergia.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

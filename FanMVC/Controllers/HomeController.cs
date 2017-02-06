@@ -29,6 +29,10 @@ namespace FanMVC.Controllers
         {
             return View();
         }
+        public ActionResult Dalbergia()
+        {
+            return View();
+        }
 
     }
 }
