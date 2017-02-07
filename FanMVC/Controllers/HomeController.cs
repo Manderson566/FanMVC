@@ -33,6 +33,13 @@ namespace FanMVC.Controllers
         {
             return View();
         }
-
+        public ActionResult ExternalResources()
+        {
+            return View();
+        }
+        public ActionResult ContactMe()
+        {
+            return View();
+        }
     }
 }

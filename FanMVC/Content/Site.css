@@ -28,4 +28,6 @@ textarea {
 .img-float{
     float: left;
 }
-
+.input-mysize { 
+    width: 400px 
+}
